@@ -4,10 +4,11 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="tabOpacity" value="40" />
     <option name="accentColor" value="ab47bc" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-363e7e83:16416f399bd:-7fff" />
     <option name="version" value="3.10.0" />
   </component>
