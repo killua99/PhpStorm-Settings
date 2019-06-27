@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Reformat">
+      <action id="$SelectAll" />
+      <action id="ReformatCode" />
+      <action id="EditorDown" />
+      <action id="EditorUp" />
+    </macro>
+    <macro name="Re-Save">
+      <action id="$SelectAll" />
+      <action id="ReformatCode" />
+      <action id="EditorDown" />
+      <action id="EditorUp" />
+      <action id="SaveDocument" />
+    </macro>
+  </component>
+</application>
