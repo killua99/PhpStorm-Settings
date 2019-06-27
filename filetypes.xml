@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".distignore" type="PLAIN_TEXT" />
+      <mapping pattern="env-live" type="PLAIN_TEXT" />
+      <mapping ext="pantheon" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern="ac-mu-plugin.php" type="Vue.js" />
+    </extensionMap>
+  </component>
+</application>

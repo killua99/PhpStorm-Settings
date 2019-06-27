@@ -4,7 +4,7 @@
     <property name="created">2018-01-11T10:24:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2019-06-26T23:15:30</property>
+    <property name="modified">2019-06-27T09:00:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <console-font>
@@ -27,7 +27,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a7700" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
@@ -36,8 +36,7 @@
     <option name="FILESTATUS_SUPPRESSED" value="717cb4" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="eaa00" />
-    <option name="FILESTATUS_changelistConflict" value="ff0000" />
-    <option name="FILESTATUS_modifiedOutside" value="47e4" />
+    <option name="FILESTATUS_addedOutside" value="c3e88d" />
+    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
 </scheme>
