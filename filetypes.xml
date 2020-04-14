@@ -7,8 +7,8 @@
       <mapping ext="pantheon" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ac-mu-plugin.php" type="Vue.js" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
